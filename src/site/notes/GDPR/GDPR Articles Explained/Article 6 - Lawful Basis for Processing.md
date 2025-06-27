@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/gdpr/gdpr-articles-explained/article-6-lawful-basis-for-processing/","title":["Article 6 - Lawful Basis for Processing"]}
 ---
 
-# Article 6 - Lawful Basis for Processing
-
 Before you collect or use someone’s personal data, you need a **lawful reason** for doing it. Article 6 sets out **six lawful bases** and you must choose the one that best fits your purpose. You can’t just pick one at random or switch between them later without a valid reason.
 
 ## 6(1)(a) Consent

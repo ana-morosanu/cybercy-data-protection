@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/gdpr/gdpr-articles-explained/article-7-conditions-for-consent/","title":["Article 7 - Conditions for consent"]}
 ---
 
-# Article 7 - Conditions for Consent
-
 Under Article 4(11) consent is defined as any freely given, specific, informed and unambiguous indication of the data subject’s wishes by which he or she, by a statement or by a clear affirmative action, signifies agreement to the processing of personal data relating to him or her.
 
 Article 7 also sets out further ‘conditions’ for consent, with specific provisions on:

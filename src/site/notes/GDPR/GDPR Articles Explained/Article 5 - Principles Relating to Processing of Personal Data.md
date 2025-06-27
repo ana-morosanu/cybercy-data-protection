@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/gdpr/gdpr-articles-explained/article-5-principles-relating-to-processing-of-personal-data/","title":["Article 5 - Principles relating to Processing of Personal Data"]}
 ---
 
-# Article 5 - Principles Relating to Processing of Personal Data
-
 Article 5 of the UK GDPR establishes the foundational principles that govern the processing of personal data. These principles are legally binding and must be adhered to by all data controllers and processors. They serve as the framework for ensuring that personal data is handled responsibly and ethically.
 
 ## Sections 5(1) - The Six Core Principles

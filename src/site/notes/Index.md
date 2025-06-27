@@ -4,9 +4,9 @@
 
   
 
-# Welcome to Cybercy's Data Protection Notes Centre
+# Welcome to the Notes Hub!
 
-Still in progress...
+System still in progress...
 
 ### 📁 Documents
 
