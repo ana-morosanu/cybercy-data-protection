@@ -13,7 +13,7 @@ A Privacy Notice communicates how personal data is collected, used, stored, and 
     - Data retention periods
     - Rights of the data subject
     - Contact details for the DPO
-    -
+
 - **Best Practices**:
     - Must be clear, concise, and accessible
     - Should be reviewed regularly and updated on the website
