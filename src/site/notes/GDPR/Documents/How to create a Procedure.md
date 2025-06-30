@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/gdpr/documents/how-to-create-a-procedure/","title":["How to create a Procedure"]}
 ---
 
-## Step 1: Know What You’re Writing — Procedure vs Policy
+### **Step 1: Know What You’re Writing — Procedure vs Policy**
 
 Before you start, you need to be 100% clear on what a **procedure** is — and what it isn’t.
 
@@ -16,9 +16,9 @@ If you’re explaining how to do something, step by step, you’re writing a **
 
 This guide is only for writing **procedures**.
 
----
 
-## Step 2: Choose ONLY One Task 
+
+### **Step 2: Choose ONLY One Task**
 
 A procedure should focus on one specific task or process. Don’t try to cover multiple things in one document. If you try to explain too much at once, the document will become confusing and hard to follow.
 
@@ -26,9 +26,9 @@ Pick one task that someone in the organisation needs to do. It could be somethin
 
 If you’re not sure whether something is a task or a policy topic, ask yourself: “Can I break this down into steps someone would follow?” If the answer is yes, it’s a task and you can write a procedure for it.
 
----
 
-## Step 3: Find Out How the Task Is Actually Done
+
+### **Step 3: Find Out How the Task Is Actually Done**
 
 You can’t write a good procedure unless you understand how the task works in real life. That means you need to do some research.
 
@@ -48,9 +48,9 @@ Don’t assume anything is obvious. Write everything down.
 
 Moreover, search up online examples of other policies used by companies similar to the one you are going to write the policy for. It will help you grasp the layout and the concept much easier. 
 
----
 
-## Step 4: Give the Procedure a Clear, Direct Title
+
+### **Step 4: Give the Procedure a Clear, Direct Title**
 
 The title should say exactly what the procedure is about. Keep it short and specific. Avoid vague or general titles.
 
@@ -58,9 +58,9 @@ A good title starts with “How to…” or “Procedure for…” followed by t
 
 This helps people find the right document quickly and understand what it’s for.
 
----
 
-## Step 5: Write a Short Introduction
+
+### **Step 5: Write a Short Introduction**
 
 Start the document with a short paragraph that explains:
 
@@ -72,9 +72,9 @@ This helps the reader understand the purpose of the document and whether it appl
 
 Keep it simple and to the point. Don’t include rules or legal references here, **that belongs in a policy**.
 
----
 
-## Step 6: Define Any Unfamiliar Terms
+
+### **Step 6: Define Any Unfamiliar Terms**
 
 If your procedure uses any terms that might be unfamiliar, like acronyms, system names, or technical language, explain them near the top of the document.
 
@@ -82,9 +82,9 @@ You don’t need to define everyday words. Just explain anything that someone ne
 
 This makes the procedure easier to follow and avoids confusion.
 
----
 
-## Step 7: Write the Steps Clearly and in Order
+
+### **Step 7: Write the Steps Clearly and in Order**
 
 This is the core of the procedure where you’re going to explain how to do the task, step by step.
 
@@ -104,9 +104,9 @@ Don’t skip steps. Don’t assume the reader knows what to do. Imagine you’re
 
 If the task has different paths (for example, “if X happens, do this; if Y happens, do that”), explain each one clearly.
 
----
 
-## Step 8: List Any Tools, Templates, or Documents
+
+### **Step 8: List Any Tools, Templates, or Documents**
 
 If the person needs to use a form, template, checklist, or system to complete the task, tell them exactly what it is and where to find it.
 
@@ -114,9 +114,9 @@ Don’t just say “use the form.” Say what the form is called and where it’
 
 This helps people follow the procedure without getting stuck.
 
----
 
-## Step 9: Add a Version History
+
+### **Step 9: Add a Version History**
 
 At the end of the document, include a small table that shows:
 
@@ -127,9 +127,9 @@ At the end of the document, include a small table that shows:
 
 This helps people know if they’re using the latest version and shows how the procedure has evolved.
 
----
 
-## Step 10: Save and Share the Procedure
+
+### **Step 10: Save and Share the Procedure##
 
 Once the procedure is finished, save it in the correct place. Use a clear file name that includes the word “Procedure,” the task name, and the version number.
 
@@ -137,10 +137,13 @@ Make sure it’s stored in the official folder where procedures are kept, and th
 
 If needed, provide a short explanation or training session to help people understand how to use it.
 
----
 
-## Step 11: Review It Regularly
+
+### **Step 11: Review It Regularly**
 
 Procedures need to be kept up to date. Set a reminder to review each one at least once a year, or sooner if the task changes.
 
 When you update a procedure, change the version number and update the version history table.
+
+
+And finally, don't forget to check with the DPO to check everything is correct!
