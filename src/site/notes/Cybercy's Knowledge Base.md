@@ -23,4 +23,4 @@ The Knowledge Base is still in progress. Keep in touch for future updates!
 - [[GDPR/GDPR Articles Explained/Article 6 - Lawful Basis for Processing\|Article 6 - Lawful Basis for Processing]]
 - [[GDPR/GDPR Articles Explained/Article 7 - Conditions for Consent\|Article 7 - Conditions for Consent]]
 - [[GDPR/GDPR Articles Explained/Article 8 - Conditions Applicable to Child’s Consent in Relation to Information Society Services (ISS)\|Article 8 - Conditions Applicable to Child’s Consent in Relation to Information Society Services (ISS)]]
-
+- [[GDPR/GDPR Articles Explained/Article 9 - Processing of special categories of personal data\|Article 9 - Processing of special categories of personal data]]
