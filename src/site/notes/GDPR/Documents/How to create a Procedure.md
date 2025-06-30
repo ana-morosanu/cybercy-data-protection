@@ -14,10 +14,8 @@ If you’re writing about values, rules, or legal obligations without explaining
 
 If you’re explaining how to do something, step by step, you’re writing a **procedure**.
 
-This guide is only for writing **procedures**.
-
-
-
+This guide is only for writing **procedures**. <br>
+<br>
 ### **Step 2: Choose ONLY One Task**
 
 A procedure should focus on one specific task or process. Don’t try to cover multiple things in one document. If you try to explain too much at once, the document will become confusing and hard to follow.
