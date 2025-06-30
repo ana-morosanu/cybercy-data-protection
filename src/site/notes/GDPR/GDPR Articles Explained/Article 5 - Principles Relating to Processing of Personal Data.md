@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/gdpr/gdpr-articles-explained/article-5-principles-relating-to-processing-of-personal-data/","title":["Article 5 - Principles relating to Processing of Personal Data"]}
 ---
 
-<br>
+<br><br>
 Article 5 of the UK GDPR establishes the foundational principles that govern the processing of personal data. These principles are legally binding and must be adhered to by all data controllers and processors. They serve as the framework for ensuring that personal data is handled responsibly and ethically.
-<br>
+<br><br>
 ## Sections 5(1) - The Six Core Principles
-<br>
+<br><br>
 #### 5(1)(a). Lawfulness, Fairness and Transparency
 
 **Lawfulness** - we can’t just collect or use someone’s personal data because we feel like it, we need a proper reason that the law allows. The UK GDPR gives us six legal reasons (called “lawful bases”) for using personal data. These include things like getting the person’s consent, needing the data to carry out a contract, or having a legal duty to use it.
@@ -43,7 +43,7 @@ Being transparent helps build trust. When people understand what’s happening w
 
 ***Checklist for transparency***
 	☐ We are open and honest, and comply with the transparency obligations of the right to be informed.
-<br>
+<br><br>
 #### 5(1)(b). Purpose Limitation
 
 This principle is about being honest and specific about why we're collecting someone's personal data and making sure we don't use it for anything else unless we have a good reason. It's about setting clear boundaries from the start and sticking to them.
@@ -62,7 +62,7 @@ There are some exception to this rule. For example, if we're using data for scie
 	☐ We include details of our purposes in our privacy information for individuals.
 	☐ We regularly review our processing and, where necessary, update our documentation and our privacy information for individuals.
 	☐ If we plan to use personal data for a new purpose other than a legal obligation or function set out in law, we check that this is compatible with our original purpose or we get specific consent for the new purpose.
-<br>
+<br><br>
 #### 5(1)(c). Data Minimisation
 
 This principle is about making sure we only collet and keep the personal data we actually need, nothing more, nothing less. It's about being sensible and respectful with people's information.
@@ -78,7 +78,7 @@ It’s also important to regularly check the data we already hold. If we find an
 There are also rights tied to this principle. For example, if someone sees that we’re holding unnecessary or incomplete data about them, they can ask us to fix it or delete it. That’s part of their right to rectification and their right to erasure.
 
 In short, data minimisation is about being thoughtful. We collect what we need, we use it for the right reasons, and we don’t keep anything extra just because we can.
-<br>
+<br><br>
 #### 5(1)(d). Accuracy
 
 This principle is about making sure the personal data we hold is correct, clear, and up to date especially when we’re using it to make decisions about people. If we’re working with information that’s wrong or misleading, it can cause real problems for the people it’s about, and it can damage trust in how we handle data.
@@ -103,7 +103,7 @@ In short, accuracy is about being careful, respectful, and responsible. It helps
 	☐ Our records clearly identify any matters of opinion, and where appropriate whose opinion it is and any relevant changes to the underlying facts.
 	☐ We comply with the individual’s right to rectification and carefully consider any challenges to the accuracy of the personal data.
 	☐ As a matter of good practice, we keep a note of any challenges to the accuracy of the personal data.
-<br>
+<br><br>
 #### 5(1)(e). Storage Limitation
 
 This principle is about not keeping personal data for longer than we actually need it. Just because we’ve collected someone’s information doesn’t mean we can hold onto it forever. We need to be clear about how long we’re going to keep it and we need to be able to explain why.
@@ -133,7 +133,7 @@ A big part of following the storage limitation principle is having a clear plan 
 A retention policy is a simple plan that explains how long we keep different types of personal data and what we do with it when we no longer need it. It helps us stay organised and ensures we’re not holding onto data longer than necessary.
 
 The retention schedule is the detailed part of that plan. It lists each type of record, like HR files, finance documents, or customer data and shows how long we should keep it. It also says what to do when that time is up, like deleting or anonymising the data.
-<br>
+<br><br>
 #### 5(1)(f). Integrity and Confidentiality (Security)
 
 This principle is about making sure personal data is kept safe, accurate, and protected from anything that could damage it or put it in the wrong hands. It’s often called the “security principle” because it focuses on how we protect the data we hold.
@@ -151,7 +151,7 @@ It’s not enough to set up security once and forget about it. We need to regula
 If a breach does happen and it’s serious enough to risk people’s rights or freedoms, we may need to report it to the ICO within 72 hours. In some cases, we’ll also need to tell the people affected.
 
 In short, this principle is about being proactive and responsible. It’s about making sure personal data stays safe, and that we’re always thinking ahead to prevent problems before they happen.
-<br>
+<br><br>
 ## Section 5(2) - Accountability
 
 Accountability means we’re not only expected to follow data protection rules, we also have to show that we’re doing it. It’s about taking full responsibility for how we handle personal data.

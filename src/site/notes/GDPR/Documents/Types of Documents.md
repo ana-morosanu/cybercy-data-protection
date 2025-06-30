@@ -48,7 +48,6 @@ A register maintains accountability and transparency by documenting data process
     - Breach details and mitigation steps
     
 - **Tools**: Often maintained in Excel or database format for ease of filtering and reporting
-
 <br><br>
 ### 4. **Templates**
 
