@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/gdpr/documents/types-of-documents/","title":["Types of Documents"]}
 ---
 
+<br>
 ### 1. **Privacy Notice (External)**
 
 A Privacy Notice communicates how personal data is collected, used, stored, and shared with external data subjects (e.g., residents, service users).
@@ -21,8 +22,7 @@ A Privacy Notice communicates how personal data is collected, used, stored, and 
     - Format should be simplified for easier navigation
     - Important information should be more prominent
 
----
-
+<br>
 ### 2. **Policy Documents**
 
 A policy defines the organisation’s stance, responsibilities, and procedures regarding data protection and compliance. Examples include: Data Protection Policy, Information Security Policy, Retention Policy.
@@ -36,8 +36,7 @@ A policy defines the organisation’s stance, responsibilities, and procedures r
     
 - **Review Cycle**: Annually or upon significant legal/operational changes
 
----
-
+<br>
 ### 3. **Registers**
 
 A register maintains accountability and transparency by documenting data processing activities and incidents. Examples of such include: Record of Processing Activities (ROPA), Data Breach Register, DPIA Register.
@@ -51,8 +50,7 @@ A register maintains accountability and transparency by documenting data process
     
 - **Tools**: Often maintained in Excel or database format for ease of filtering and reporting
 
----
-
+<br>
 ### 4. **Templates**
 
 A template provides standardised formats for recurring compliance tasks. Examples of templates: DPIA, Consent Form, Data Sharing Agreement.
