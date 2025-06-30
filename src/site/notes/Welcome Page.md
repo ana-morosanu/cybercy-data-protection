@@ -6,7 +6,7 @@
 
 ## Welcome to the Notes Hub!
 
-System still in progress...
+This platform is still in progress. Keep in touch for future updates!
 
 #### 📁 Documents
 
