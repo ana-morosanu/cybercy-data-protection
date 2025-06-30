@@ -5,7 +5,7 @@
 <br><br>
 Article 5 of the UK GDPR establishes the foundational principles that govern the processing of personal data. These principles are legally binding and must be adhered to by all data controllers and processors. They serve as the framework for ensuring that personal data is handled responsibly and ethically.
 <br><br>
-## Sections 5(1) - The Six Core Principles
+## Sections 5(1) - The Seven Core Principles
 <br><br>
 #### 5(1)(a). Lawfulness, Fairness and Transparency
 
