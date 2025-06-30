@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/gdpr/documents/types-of-documents/","title":["Types of Documents"]}
 ---
 
-<br><br>
 ### 1. **Privacy Notice (External)**
 
 A Privacy Notice communicates how personal data is collected, used, stored, and shared with external data subjects (e.g., residents, service users).

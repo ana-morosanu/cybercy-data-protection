@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/gdpr/documents/how-to-create-a-policy/","title":["How to create a Policy"]}
 ---
 
-<br><br>
 ### **Step 1: Understand What a Policy Is**
 
 Before you write anything, you need to understand what a policy is. A policy is a written document that explains what your company does to follow the law and protect people’s personal information. It’s like a rulebook. It tells staff what they can and can’t do with data, and it shows regulators (like the ICO in the UK) that your company takes data protection seriously.

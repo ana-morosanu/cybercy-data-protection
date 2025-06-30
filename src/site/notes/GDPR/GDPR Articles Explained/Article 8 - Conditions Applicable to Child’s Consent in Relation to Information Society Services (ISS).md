@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/gdpr/gdpr-articles-explained/article-8-conditions-applicable-to-child-s-consent-in-relation-to-information-society-services-iss/","title":["Article 8 - Conditions Applicable to Child’s Consent in Relation to Information Society Services (ISS)"]}
 ---
 
-<br><br>
 ### **What is an Information Society Service (ISS)?**
 
 An Information Society Service is any service that is provided online, usually for some kind of payment, and is delivered electronically at the request of the user. This includes things like websites, apps, online games, streaming platforms, and social media. Even if the service is free to use, it still counts as an ISS if it makes money in other ways, like through advertising or collecting and using personal data. The key idea is that the service is digital, interactive, and accessed over the internet.

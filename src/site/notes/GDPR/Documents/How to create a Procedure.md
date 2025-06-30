@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/gdpr/documents/how-to-create-a-procedure/","title":["How to create a Procedure"]}
 ---
 
-<br><br>
 ### **Step 1: Know What You’re Writing — Procedure vs Policy**
 
 Before you start, you need to be 100% clear on what a **procedure** is — and what it isn’t.
