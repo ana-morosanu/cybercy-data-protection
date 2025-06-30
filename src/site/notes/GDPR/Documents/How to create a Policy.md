@@ -2,17 +2,18 @@
 {"dg-publish":true,"permalink":"/gdpr/documents/how-to-create-a-policy/","title":["How to create a Policy"]}
 ---
 
+<br>
 ### **Step 1: Understand What a Policy Is**
 
 Before you write anything, you need to understand what a policy is. A policy is a written document that explains what your company does to follow the law and protect people’s personal information. It’s like a rulebook. It tells staff what they can and can’t do with data, and it shows regulators (like the ICO in the UK) that your company takes data protection seriously.
-
+<br>
 ### **Step 2: Know Why You’re Writing This Policy**
 
 You’re writing this policy to:
 - Help the company follow data protection laws (like the UK GDPR or Data Protection Act).
 - Make sure everyone in the company knows how to handle personal data properly.
 - Prove to clients, partners, and regulators that the company is trustworthy.
-
+<br>
 ### **Step 3: Gather the Information You Need**
 
 Before you start writing, you need to collect some information. You can’t write a good policy without knowing how your company actually handles data. Here’s what you need to find out:
@@ -26,7 +27,7 @@ Before you start writing, you need to collect some information. You can’t writ
 - What happens when the data is no longer needed? (e.g. deleted, shredded)
 
 You might need to talk to different departments or look at existing documents to get this info.
-
+<br>
 ### **Step 4: Open a Blank Document and Give It a Title**
 
 Open Word or Google Docs. At the top of the page, write:
@@ -34,13 +35,13 @@ Open Word or Google Docs. At the top of the page, write:
 **Company Name: Data Protection Policy**
 
 Make sure the company name is correct. This is the official title of the document.
-
+<br>
 ### **Step 5: Write an Introduction**
 
 Start with a short paragraph that explains what the policy is for. Keep it simple. For example:
 
 > This policy explains how [Company Name] collects, uses, stores, and protects personal data. It helps us follow data protection laws and shows our commitment to keeping personal information safe.
-
+<br>
 ### **Step 6: Add a Scope Section**
 
 This part explains who the policy applies to. You can write something like:
@@ -48,7 +49,7 @@ This part explains who the policy applies to. You can write something like:
 > This policy applies to all employees, contractors, and anyone else who handles personal data on behalf of [Company Name].
 
 Of course, feel free to expand as much as needed.
-
+<br>
 ### **Step 7: Add a Definitions Section**
 
 Some people reading this policy might not know what “personal data” or “processing” means. So explain it in plain English. For example:
@@ -57,7 +58,7 @@ Some people reading this policy might not know what “personal data” or “pr
 - **Processing** means anything you do with personal data, like collecting it, storing it, using it, or deleting it.
 
 You can include 3–5 key terms here.
-
+<br>
 ### **Step 8: Write the Main Rules (This Is the Core of the Policy)**
 
 Now you explain what the company does to protect data. Break it into clear sections. Each section should have a heading and a few short paragraphs. Here are the most important ones:
@@ -93,13 +94,13 @@ Explain what happens if there’s a data breach (e.g. who to report it to, how i
 ##### 8. **Third Parties**
 
 Say that if the company shares data with other companies (like cloud services), it checks that they follow data protection laws too.
-
+<br>
 ### **Step 9: Add Contact Details**
 
 At the end of the policy, include contact details for the Data Protection Officer (DPO) or whoever is responsible for data protection. For example:
 
 > If you have any questions about this policy or how your data is handled, please contact our Data Protection Officer at dpo@[company].com.
-
+<br>
 
 ### **Step 10: Do Your Own Research (Seriously, Don’t Skip This)**
 
@@ -132,7 +133,7 @@ Here’s how to do it:
     
 5. **Keep a Record of What You Looked At**  
     If someone asks where you got your ideas from, it’s good to have a list of the websites or documents you reviewed. You can even include this in your handover notes.
-
+<br>
 ### **Step 11: Review and Approve the Policy**
 
 Once you’ve written the policy, don’t just save it and forget it. You need to:

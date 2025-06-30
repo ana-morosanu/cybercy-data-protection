@@ -2,8 +2,9 @@
 {"dg-publish":true,"permalink":"/gdpr/gdpr-articles-explained/article-6-lawful-basis-for-processing/","title":["Article 6 - Lawful Basis for Processing"]}
 ---
 
+<br>
 Before you collect or use someone’s personal data, you need a **lawful reason** for doing it. Article 6 sets out **six lawful bases** and you must choose the one that best fits your purpose. You can’t just pick one at random or switch between them later without a valid reason.
-
+<br>
 ## 6(1)(a) Consent
 
 Consent means the individual has given you clear permission to use their personal data for a specific purpose. It must be a real, informed choice, not something hidden in the small print or assumed by default.
@@ -30,7 +31,7 @@ Consent requests must be separate from other terms and conditions. They should b
 ###### How do you manage consent?
 You need to regularly review consents to make sure they’re still valid. If anything changes, like the purpose or the way you use the data, you may need to ask for consent again. You should also have a clear process for handling withdrawals and make sure people aren’t penalised for changing their mind.
 
-Checklists for consent:
+***Checklists for consent:***
 
 Asking for Consent:
 	☐ We have checked that consent is the most appropriate lawful basis for processing.
@@ -73,7 +74,7 @@ Overall Idea of Consent:
 - Keep consent under review, and refresh it if anything changes.
 - Avoid making consent to processing a precondition of a service.
 - Public authorities and employers will need to take extra care to show that consent is freely given, and should avoid over-reliance on consent.
-
+<br>
 ## 6(1)(b) Contract
 
 You can rely on the contract lawful basis when you need to process someone’s personal data to either carry out a contract with them or to take steps they’ve asked for before entering into a contract.
@@ -104,7 +105,7 @@ If you’re processing sensitive data (like health or biometric data) under this
 
 ###### Do you need to tell people?
 Yes. You must explain in your **privacy notice** that you’re relying on the contract basis, and clearly describe what the contract is and why the data is needed.
-
+<br>
 ## 6(1)(c) Legal Obligation
 
 This lawful basis applies when you need to process personal data to comply with a legal requirement. It must be a real legal obligation, not just something you choose to do or something that’s part of a contract.
@@ -124,14 +125,13 @@ The processing must be **essential** to meet the legal obligation. If you can 
 - Contractual obligations (those fall under Article 6(1)(b)).
 - Internal policies or business preferences.
 - General good practice unless it’s backed by law.
-
 ###### What should you document?
 - What the legal obligation is.
 - Why the processing is necessary to meet it.
 - Where the obligation is set out (e.g. legislation, guidance, or official advice).
 
 You must also explain this basis in your **privacy notice**, so individuals understand why their data is being used and that it’s required by law.
-
+<br>
 ### 6(1)(d) Vital Interests
 
 This lawful basis applies when you need to process personal data to protect someone’s life. It’s meant for **emergency situations** where the person is unable to give consent, for example, if they’re unconscious or seriously injured.
@@ -154,7 +154,7 @@ If you think you might need to rely on this basis, you should:
 - Document the types of situations where it might apply.
 - Make sure your staff understand when and how to use it.
 - Be ready to explain why it was necessary and why no other basis applied.
-
+<br>
 ### 6(1)(e) Public Task
 
 This lawful basis applies when you need to process personal data to carry out a task that is in the public interest or part of your official duties and that task must have a clear basis in law.
@@ -187,7 +187,7 @@ You should document:
 - Why the processing is necessary to carry it out.
 
 You must also explain this basis in your **privacy notice**, so individuals understand why their data is being used and what legal power supports it.
-
+<br>
 ###  6(1)(f) Legitimate Interests
 
 This lawful basis allows you to process personal data if it’s necessary for your organisation’s legitimate interests or those of a third party as long as those interests aren’t overridden by the individual’s rights and freedoms. It’s the most flexible of the six lawful bases, but it also requires the most careful judgement.
@@ -216,7 +216,7 @@ It’s not suitable if the person wouldn’t reasonably expect their data to be 
 ###### What should you document?
 You should carry out and record a **Legitimate Interests Assessment (LIA)**. This shows you’ve thought through the risks and made a fair decision. You must also explain your use of this basis in your **privacy notice**.
 
-Checklist for legitimate interests:
+***Checklist for legitimate interests:***
 	☐ We have checked that legitimate interests is the most appropriate basis.
 	☐ We understand our responsibility to protect the individual’s interests.
 	☐ We have conducted a legitimate interests assessment (LIA) and kept a record of it, to ensure that we can justify our decision.
@@ -231,7 +231,7 @@ Checklist for legitimate interests:
 	☐ If our LIA identifies a significant privacy impact, we have considered whether we also need to conduct a DPIA.
 	☐ We keep our LIA under review, and repeat it if circumstances change.
 	☐ We include information about our legitimate interests in our privacy information.
-
+<br>
 ### Special Category Data - Article 9
 
 Special category data is personal data that is more sensitive and needs extra protection. It includes information about:
@@ -245,7 +245,7 @@ Special category data is personal data that is more sensitive and needs extra pr
 - Sex life or sexual orientation
 
 Because this type of data is more likely to affect someone’s privacy or rights, you can’t process it just by relying on a lawful basis under Article 6. You also need to meet **one of the specific conditions in Article 9(2)**.
-
+<br>
 ##### Conditions for Processing Special Category Data
 
 You must identify both:
@@ -265,7 +265,7 @@ Here are the main Article 9 conditions:
 - **(j) Archiving, research, or statistics** – The processing is necessary for scientific or historical research, or statistical purposes.
 Each of these conditions has its own rules and may require safeguards like data minimisation, access controls, or impact assessments.
 
-Checklist for special category data:
+***Checklist for special category data:***
 	☐ We have checked the processing of the special category data is necessary for the purpose we have identified and are satisfied there is no other reasonable and less intrusive way to achieve that purpose.
 	☐ We have identified an Article 6 lawful basis for processing the special category data.
 	☐ We have identified an appropriate Article 9 condition for processing the special category data.
@@ -276,7 +276,7 @@ Checklist for special category data:
 	☐ We include specific information about our processing of special category data in our privacy information for individuals.
 	☐ If we use special category data for automated decision making (including profiling), we have checked we comply with Article 22.
 	☐ We have considered whether the risks associated with our use of special category data affect our other obligations around data minimisation, security, and appointing Data Protection Officers (DPOs) and representatives.
-
+<br>
 ### Criminal Offence Data – Article 10 
 
 Criminal offence data is personal information about criminal convictions, offences, or related security measures. Because this type of data is sensitive, the UK GDPR puts stricter rules around how it can be used.
@@ -299,7 +299,7 @@ Because of the risks involved, processing criminal offence data may also trigger
 
 In short, criminal offence data is highly restricted. You need a lawful basis under Article 6, plus either official authority or a legal condition under the DPA 2018, along with strong measures and documentation.
 
-Checklist for criminal offence data:
+***Checklist for criminal offence data:***
 	☐ We have checked that the processing of the criminal offence data is necessary for the purpose we have identified and are satisfied there is no other reasonable and less intrusive way to achieve this purpose.
 	☐ We have identified an Article 6 lawful basis for processing the criminal offence data.
 	☐ Where applicable, we have identified in law our official authority to process the criminal offence data.

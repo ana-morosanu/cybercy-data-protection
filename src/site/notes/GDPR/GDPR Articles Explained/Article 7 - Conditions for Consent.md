@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/gdpr/gdpr-articles-explained/article-7-conditions-for-consent/","title":["Article 7 - Conditions for consent"]}
 ---
 
+<br>
 Under Article 4(11) consent is defined as any freely given, specific, informed and unambiguous indication of the data subject’s wishes by which he or she, by a statement or by a clear affirmative action, signifies agreement to the processing of personal data relating to him or her.
 
 Article 7 also sets out further ‘conditions’ for consent, with specific provisions on:
@@ -9,7 +10,7 @@ Article 7 also sets out further ‘conditions’ for consent, with specific prov
 - prominence and clarity of consent requests;
 - the right to withdraw consent easily and at any time; and
 - freely given consent if a contract is conditional on consent
-
+<br>
 ### 7(1) - Demonstrating Consent 
 
 **How to Record Consent**
@@ -55,7 +56,7 @@ To meet this requirement, you should:
 A company collects email addresses for marketing. They use a form with a clear checkbox (not pre-ticked), stating:  
 “I agree to receive marketing emails from Example_Company. I understand I can unsubscribe at any time.”  
 The system logs the date, time, and IP address of the user, and stores a copy of the consent wording shown at the time. The company also tracks which version of the privacy notice was displayed and sets a reminder to review consent every 12 months.
-
+<br>
 ### 7(2) - Clear and Separate Consent Requests - how to write a consent request
 
 **How to Write a Consent Request**
@@ -74,7 +75,7 @@ Good Practice Checklist:
 - Be **specific** about what the person is consenting to.
 - Offer **separate options** for different types of processing.
 - Clearly explain the **right to withdraw consent** and how to do it.
-
+<br>
 ### 7(3) - Right to Withdraw Consent - how to manage the right to withdraw consent
 
 **How to Manage the Right to Withdraw Consent**
@@ -95,7 +96,7 @@ Good Practice Checklist:
 - Stop processing the data **immediately** after withdrawal (unless another lawful basis applies).
 - Ensure your systems can **track and act on withdrawals** quickly.
 - Inform any **third parties** who received the data under the original consent.
-
+<br>
 ### 7(4) - Freely Given Consent - what information to include in a consent request and how to manage consent
 
 **How to Ensure Consent Is Truly Voluntary**
