@@ -25,3 +25,6 @@ The Knowledge Base is still in progress. Keep in touch for future updates!
 - [[GDPR/GDPR Articles Explained/Article 8 - Conditions Applicable to Child’s Consent in Relation to Information Society Services (ISS)\|Article 8 - Conditions Applicable to Child’s Consent in Relation to Information Society Services (ISS)]]
 - [[GDPR/GDPR Articles Explained/Article 9 - Processing of special categories of personal data\|Article 9 - Processing of special categories of personal data]]
 - [[GDPR/GDPR Articles Explained/Article 10 - Processing of Criminal Offence Data\|Article 10 - Processing of Criminal Offence Data]]
+
+##### 📁 New: Data Use and Access Act 2025 (DUAA 2025)
+- [[DUA Act/Data Protection and Privacy Changes\|Data Protection and Privacy Changes]]
