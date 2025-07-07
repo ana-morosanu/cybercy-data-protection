@@ -16,7 +16,6 @@ The Knowledge Base is still in progress. Keep in touch for future updates!
 - [[GDPR/Documents/How to create a Record\|How to create a Record]]
 - [[GDPR/Documents/How to create a Template\|How to create a Template]]
 
-
 ##### 📁 GDPR Articles Explained
 
 - [[GDPR/GDPR Articles Explained/Article 5 - Principles Relating to Processing of Personal Data\|Article 5 - Principles Relating to Processing of Personal Data]]
@@ -28,3 +27,9 @@ The Knowledge Base is still in progress. Keep in touch for future updates!
 
 ##### 📁 New: Data Use and Access Act 2025 (DUAA 2025)
 - [[DUA Act/Data Protection and Privacy Changes\|Data Protection and Privacy Changes]]
+
+##### 📁 AI Enablement
+- [[AI Enablement/EU Artificial Intelligence Act (EU AI Act)\|EU Artificial Intelligence Act (EU AI Act)]]
+- [[AI Enablement/ISO42001- AI Management System Standard\|ISO42001- AI Management System Standard]]
+
+##### 📁 Cyber Security
