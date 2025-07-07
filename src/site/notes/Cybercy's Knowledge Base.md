@@ -3,7 +3,6 @@
 ---
 
   
-
 ## Welcome to Cybercy's Knowledge Base!
 
 The Knowledge Base is still in progress. Keep in touch for future updates!
