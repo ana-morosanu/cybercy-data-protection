@@ -121,16 +121,16 @@ When creating or updating documents, the organisation must make sure they are cl
 This sections outlines how an organisation should manage day-to-day activities of its AI management system.
 
 **Operational Planning and Control**:
-The organization is required to plan, implement, and control the processes necessary to meet the requirements of the AI management system and to carry out the actions identified in Clause 6. This includes establishing criteria for these processes and applying controls accordingly. The controls identified during AI risk treatment (Clause 6.1.3) must be implemented, particularly those related to the AI system’s development and life cycle. The effectiveness of these controls must be monitored, and corrective actions taken if the intended results are not achieved. Documented information must be maintained to confirm that processes are executed as planned. The organization must also manage both planned and unintended changes, taking action to mitigate any adverse effects. Additionally, any externally provided processes, products, or services relevant to the AI management system must be controlled.
+The organisation is required to plan, implement, and control the processes necessary to meet the requirements of the AI management system and to carry out the actions identified in Clause 6. This includes establishing criteria for these processes and applying controls accordingly. The controls identified during AI risk treatment (Clause 6.1.3) must be implemented, particularly those related to the AI system’s development and life cycle. The effectiveness of these controls must be monitored, and corrective actions taken if the intended results are not achieved. Documented information must be maintained to confirm that processes are executed as planned. The organisation must also manage both planned and unintended changes, taking action to mitigate any adverse effects. Additionally, any externally provided processes, products, or services relevant to the AI management system must be controlled.
 
 **AI Risk Assessment**:
 The organization must conduct AI risk assessments in line with Clause 6.1.2. These assessments should occur at planned intervals or when significant changes are proposed or take place. The results of all AI risk assessments must be documented and retained.
 
 **AI Risk Treatment**:
-The AI risk treatment plan, developed under Clause 6.1.3, must be implemented and its effectiveness verified. If new risks are identified or if existing treatments are found to be ineffective, the organization must revisit the risk treatment process and update the plan accordingly. All outcomes of the risk treatment process must be documented and retained.
+The AI risk treatment plan, developed under Clause 6.1.3, must be implemented and its effectiveness verified. If new risks are identified or if existing treatments are found to be ineffective, the organisation must revisit the risk treatment process and update the plan accordingly. All outcomes of the risk treatment process must be documented and retained.
 
 **AI System Impact Assessment**:
-AI system impact assessments must be performed in accordance with Clause 6.1.4. These assessments should be conducted at planned intervals or when significant changes are proposed. The organization must document and retain the results of all such assessments.
+AI system impact assessments must be performed in accordance with Clause 6.1.4. These assessments should be conducted at planned intervals or when significant changes are proposed. The organisation must document and retain the results of all such assessments.
 
 ### **Management Review**
 Top management is required to review the organisation's AI management system at planned intervals. The purpose of this review is to ensure that the system remains suitable, adequate and effective in achieving its intended outcomes.
@@ -144,26 +144,26 @@ The outcomes of the management review must include decisions and actions related
 ### **Improvement**
 
 **Continual Improvement**:
-The organisation is required to continually improve the suitability, adequacy, and effectiveness of its AI management system. This means that the system should not remain static but should evolve in response to internal evaluations, external changes, and opportunities for enhancement. The goal is to ensure that the AI management system remains aligned with the organization’s objectives and continues to support responsible and effective use of AI.
+The organisation is required to continually improve the suitability, adequacy, and effectiveness of its AI management system. This means that the system should not remain static but should evolve in response to internal evaluations, external changes, and opportunities for enhancement. The goal is to ensure that the AI management system remains aligned with the organisation’s objectives and continues to support responsible and effective use of AI.
 
 **Nonconformity and Corrective Action**:
-When a nonconformity occurs, the organization must take action to address it. This includes reacting to the issue by controlling and correcting it, and dealing with any consequences. The organization must also evaluate whether further action is needed to eliminate the root cause of the nonconformity to prevent recurrence. This involves reviewing the nonconformity, identifying its causes, and determining whether similar issues exist or could arise elsewhere.
+When a nonconformity occurs, the organisation must take action to address it. This includes reacting to the issue by controlling and correcting it, and dealing with any consequences. The organisation must also evaluate whether further action is needed to eliminate the root cause of the nonconformity to prevent recurrence. This involves reviewing the nonconformity, identifying its causes, and determining whether similar issues exist or could arise elsewhere.
 
 Once actions are identified, they must be implemented and their effectiveness reviewed. If necessary, changes should be made to the AI management system. All actions taken, including the nature of the nonconformities and the results of any corrective actions, must be documented and retained as evidence.
 
 ### **Annex A (normative) - Reference Control Objectives and Controls**
 
 ##### **A.1 General**
-This annex provides a reference set of control objectives and controls to support the implementation and operation of an AI management system. Organizations are not required to implement all listed controls but should select those relevant to their context, risks, and objectives. Additional or alternative controls may also be used.
+This annex provides a reference set of control objectives and controls to support the implementation and operation of an AI management system. Organisations are not required to implement all listed controls but should select those relevant to their context, risks, and objectives. Additional or alternative controls may also be used.
 
 ##### **A.2 Policies Related to AI**
 **Objective**: To provide management direction and support for AI systems according to business requirements.
-- **A.2.2 AI policy**: The organization shall document a policy for the development or use of AI systems.
-- **A.2.3 Alignment with other organizational policies**: The organization shall determine where other policies intersect with AI objectives.
+- **A.2.2 AI policy**: The organisation shall document a policy for the development or use of AI systems.
+- **A.2.3 Alignment with other organisational policies**: The organisation shall determine where other policies intersect with AI objectives.
 - **A.2.4 Review of the AI policy**: The AI policy shall be reviewed periodically to ensure its continued relevance and effectiveness.
 
-##### **A.3 Internal Organization**
-**Objective**: To establish accountability within the organization for responsible AI system management.
+##### **A.3 Internal Organisation**
+**Objective**: To establish accountability within the organisation for responsible AI system management.
 - **A.3.2 AI roles and responsibilities**: Roles and responsibilities for AI shall be clearly defined and allocated.
 - **A.3.3 Reporting of concerns**: A process shall be in place for reporting concerns related to AI systems.
 
@@ -210,7 +210,7 @@ This annex provides a reference set of control objectives and controls to suppor
 - **A.8.5 Information for interested parties**
 
 ##### **A.9 Use of AI Systems**
-**Objective**: To ensure responsible use of AI systems in line with organizational policies.
+**Objective**: To ensure responsible use of AI systems in line with organisational policies.
 - **A.9.2 Processes for responsible use**
 - **A.9.3 Objectives for responsible use**
 - **A.9.4 Intended use of the AI system**
@@ -224,28 +224,28 @@ This annex provides a reference set of control objectives and controls to suppor
 ### **Annex B (Normative) – Implementation Guidance for AI Controls**
 
 ##### **B.1 General**
-Annex B provides implementation guidance for the controls listed in Annex A. This guidance is not mandatory and does not need to be included in the statement of applicability. Organizations may adapt or extend the guidance to suit their specific needs and risk treatment strategies. The annex serves as a starting point for developing organization-specific implementations of controls.
+Annex B provides implementation guidance for the controls listed in Annex A. This guidance is not mandatory and does not need to be included in the statement of applicability. Organisations may adapt or extend the guidance to suit their specific needs and risk treatment strategies. The annex serves as a starting point for developing organisation-specific implementations of controls.
 
 **B.2 Policies Related to AI**
 **B.2.1 Objective**
 To provide management direction and support for AI systems according to business requirements.
 
 **B.2.2 AI Policy**
-The AI policy should be informed by business strategy, organizational values, risk appetite, legal requirements, and stakeholder impacts. It should include guiding principles and processes for handling exceptions and should reference other relevant policies.
+The AI policy should be informed by business strategy, organisational values, risk appetite, legal requirements, and stakeholder impacts. It should include guiding principles and processes for handling exceptions and should reference other relevant policies.
 
-**B.2.3 Alignment with Other Organizational Policies**
-Organizations should identify intersections between AI and other domains such as quality, security, safety, and privacy. Policies should be updated or cross-referenced accordingly.
+**B.2.3 Alignment with Other Organisational Policies**
+Organisations should identify intersections between AI and other domains such as quality, security, safety, and privacy. Policies should be updated or cross-referenced accordingly.
 
 **B.2.4 Review of the AI Policy**
 The AI policy should be reviewed periodically or when necessary. A designated role should be responsible for this review, which should consider changes in the business, legal, or technical environment.
 
-##### **B.3 Internal Organization**
+##### **B.3 Internal Organisation**
 
 **B.3.1 Objective**
 To establish accountability for the implementation, operation, and management of AI systems.
 
 **B.3.2 AI Roles and Responsibilities**
-Roles should be defined and assigned based on organizational needs. Areas requiring clear responsibilities include risk management, impact assessments, data quality, oversight, and compliance.
+Roles should be defined and assigned based on organisational needs. Areas requiring clear responsibilities include risk management, impact assessments, data quality, oversight, and compliance.
 
 **B.3.3 Reporting of Concerns**
 A process should be in place for reporting concerns, with options for anonymity and protection from retaliation. Reports should be escalated appropriately and handled by qualified personnel.
@@ -256,19 +256,121 @@ A process should be in place for reporting concerns, with options for anonymity 
 To ensure that all AI system resources are identified and managed to address risks and impacts.
 
 **B.4.2 Resource Documentation**
-Organizations should document all relevant resources, including data, tools, systems, and human expertise, using diagrams or architecture models where helpful.
+Organisations should document all relevant resources, including data, tools, systems, and human expertise, using diagrams or architecture models where helpful.
 
 **B.4.3 Data Resources**
 Documentation should include data provenance, update history, categories, labeling processes, intended use, quality, retention policies, and known biases.
 
 **B.4.4 Tooling Resources**
-Tooling includes algorithms, models, optimization methods, and development tools. Documentation should cover their use and purpose.
+Tooling includes algorithms, models, optimisation methods, and development tools. Documentation should cover their use and purpose.
 
 **B.4.5 System and Computing Resources**
 Details should include hardware specifications, deployment environments, and environmental impacts. Different stages of the AI life cycle may require different resources.
 
 **B.4.6 Human Resources**
-Organizations should document the expertise required for each stage of the AI life cycle, including oversight, development, and maintenance. Diversity and inclusion may be relevant depending on the system’s context.
+Organisations should document the expertise required for each stage of the AI life cycle, including oversight, development, and maintenance. Diversity and inclusion may be relevant depending on the system’s context.
 
 
 ### **Annex C - Potential AI-related organisational objectives and risk sources**
+
+##### **C.1 General**
+
+Annex C provides a non-exhaustive list of potential organisational objectives and risk sources relevant to AI systems. These are intended to support organisations in identifying and managing risks associated with AI. The relevance of each item depends on the organisation’s context. ISO/IEC 23894 offers further detail on how these elements relate to risk management. Regular evaluation of AI systems helps ensure alignment with organisational objectives.
+
+##### **C.2 Objectives**
+
+**C.2.1 Accountability**
+AI can shift traditional accountability structures. Where individuals were once solely responsible for decisions, AI systems may now influence or make those decisions, requiring new accountability frameworks.
+
+**C.2.2 AI Expertise**
+Organizations need access to interdisciplinary specialists with skills in assessing, developing, and deploying AI systems to ensure responsible and effective use.
+
+**C.2.3 Availability and Quality of Training and Test Data**
+Machine learning-based AI systems require high-quality training, validation, and test data to function as intended. Poor data quality can compromise system performance.
+
+**C.2.4 Environmental Impact**
+AI systems can have both positive and negative environmental effects. These include energy consumption, resource use, and potential contributions to sustainability.
+
+**C.2.5 Fairness**
+Automated decision-making by AI systems can result in unfair outcomes for certain individuals or groups if not properly managed.
+
+**C.2.6 Maintainability**
+Maintainability refers to the organisation’s ability to modify AI systems to correct defects or adapt to new requirements over time.
+
+**C.2.7 Privacy**
+AI systems that process personal or sensitive data, such as health records, can pose privacy risks if data is misused or disclosed inappropriately.
+
+**C.2.8 Robustness**
+Robustness is the ability of an AI system to maintain consistent performance when exposed to new or unexpected data.
+
+**C.2.9 Safety**
+Safety involves ensuring that AI systems do not endanger human life, health, property, or the environment under defined conditions.
+
+**C.2.10 Security**
+AI systems, especially those using machine learning, introduce new security challenges beyond traditional IT concerns, such as adversarial attacks or model manipulation.
+
+**C.2.11 Transparency and Explainability**
+Transparency refers to the openness of both the organisation and the AI system. Explainability involves providing understandable reasons for AI outputs to stakeholders.
+
+##### **C.3 Risk Sources**
+
+**C.3.1 Complexity of Environment**
+AI systems operating in complex environments (e.g. autonomous vehicles) face performance uncertainty due to the wide range of possible scenarios.
+
+**C.3.2 Lack of Transparency and Explainability**
+When AI systems cannot provide clear explanations for their decisions, it can undermine trust and accountability.
+
+**C.3.3 Level of Automation**
+Higher levels of automation can increase risks in areas such as safety, fairness, and security, especially when human oversight is reduced.
+
+**C.3.4 Risk Sources Related to Machine Learning**
+Machine learning introduces risks related to data quality, data poisoning, and the methods used to collect and process data.
+
+**C.3.5 System Hardware Issues**
+Hardware-related risks include defects in components or issues when transferring trained models between different hardware platforms.
+
+**C.3.6 System Life Cycle Issues**
+Risks can arise at any stage of the AI system life cycle, including design flaws, poor deployment practices, inadequate maintenance, or improper decommissioning.
+
+**C.3.7 Technology Readiness**
+Immature technologies may carry unknown risks, while overconfidence in mature technologies can lead to complacency and overlooked vulnerabilities.
+
+
+### **Annex D - Use of the AI management system across domains or sectors**
+
+##### **D.1 General**
+
+The AI management system defined in ISO/IEC 42001 is applicable to any organisation that develops, provides, or uses products or services involving AI systems. This includes a wide range of sectors such as:
+- Health
+- Defence
+- Transport
+- Finance
+- Employment
+- Energy
+
+Each sector may have its own obligations, best practices, expectations, and contractual commitments. The AI management system offers technology-specific guidance, complementing existing generic or sector-specific management system standards that typically take a technology-neutral approach.
+
+AI systems often incorporate multiple technologies, not just AI-specific components. Therefore, responsible development and use require a holistic approach that considers the entire system. This includes integrating considerations for safety, security, privacy, and environmental impact across all components, not just the AI parts.
+
+To achieve this, organisations should integrate the AI management system with other relevant management systems to ensure comprehensive governance and risk management.
+
+##### **D.2 Integration of AI Management System with Other Management System Standards**
+
+Organisations may have objectives or obligations that align with other management system standards. Integration with these standards enhances consistency and effectiveness. Examples include:
+
+- **ISO/IEC 27001 (Information Security Management)**  
+    AI systems often involve sensitive data and critical operations. Integrating ISO/IEC 27001 helps address security objectives systematically. The shared high-level structure between ISO/IEC 27001 and ISO/IEC 42001 facilitates this integration.
+    
+- **ISO/IEC 27701 (Privacy Information Management)**  
+    When AI systems process personally identifiable information (PII), ISO/IEC 27701 helps organisations meet privacy obligations. Privacy-related controls in ISO/IEC 42001 can be aligned with ISO/IEC 27701 implementation.
+    
+- **ISO 9001 (Quality Management)**  
+    Integration with ISO 9001 supports customer confidence and internal effectiveness. It complements AI-specific requirements with broader quality assurance practices, including risk management and supply chain coherence.
+    
+- **Sector-Specific Standards**  
+    Integration is also beneficial with standards tailored to specific industries:
+    
+    - **ISO 22000** for food safety management (relevant for AI in food production and logistics)
+    - **ISO 13485** and **IEC 62304** for medical devices and software (relevant for AI in healthcare)
+
+By aligning the AI management system with these standards, organisations can ensure responsible AI development and use while meeting broader regulatory and operational requirements.
