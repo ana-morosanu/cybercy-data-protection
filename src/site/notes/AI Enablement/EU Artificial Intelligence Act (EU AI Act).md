@@ -14,6 +14,9 @@ The Act applies to:
 
 It covers AI systems defined broadly as software developed using machine learning, logic-based, or statistical approaches that can generate outputs such as predictions, recommendations, or decisions.
 
+
+
+
 #### **Risk-Based Classification**
 
 The Act introduces a four-tier risk classification system:
