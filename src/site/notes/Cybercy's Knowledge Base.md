@@ -28,7 +28,7 @@ The Knowledge Base is still in progress. Keep in touch for future updates!
 - [[DUA Act/Data Protection and Privacy Changes\|Data Protection and Privacy Changes]]
 
 ##### 📁 AI Enablement
-- [[AI Enablement/EU Artificial Intelligence Act (EU AI Act)\|EU Artificial Intelligence Act (EU AI Act)]]
+- [[AI Enablement/EU AI Act/EU Artificial Intelligence Act - Baseline\|EU Artificial Intelligence Act - Baseline]]
 - [[AI Enablement/ISO42001- AI Management System Standard\|ISO42001- AI Management System Standard]]
 
 ##### 📁 Cyber Security
