@@ -29,6 +29,9 @@ The Knowledge Base is still in progress. Keep in touch for future updates!
 
 ##### 📁 AI Enablement
 - [[AI Enablement/EU AI Act/EU Artificial Intelligence Act - Baseline\|EU Artificial Intelligence Act - Baseline]]
+	- [[AI Enablement/EU AI Act/General Provisions - Article 1 to 4\|General Provisions - Article 1 to 4]]
+	- [[AI Enablement/EU AI Act/Prohibited AI practices - Article 5\|Prohibited AI practices - Article 5]]
+	- [[AI Enablement/EU AI Act/High-Risk AI systems - Article 6 to 49\|High-Risk AI systems - Article 6 to 49]]
 - [[AI Enablement/ISO42001- AI Management System Standard\|ISO42001- AI Management System Standard]]
 
 ##### 📁 Cyber Security
