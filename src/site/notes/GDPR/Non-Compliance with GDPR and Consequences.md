@@ -71,3 +71,48 @@ Fines aren’t the only tool regulators have. They can also:
 #### Why Compliance is Important
 
 Following the GDPR isn’t just about avoiding fines. It also helps build trust with customers, protects your reputation, and shows that your organisation takes data privacy seriously. In today’s digital world, that can be a big competitive advantage.
+
+
+|Feature|Annual Turnover|Global Annual Turnover|
+|---|---|---|
+|Scope|Usually UK-only|Worldwide (all countries)|
+|Used for|Domestic reporting, tax, and accounting|Regulatory fines (e.g. GDPR, DUAA), international compliance|
+|Includes|Revenue from UK operations|Revenue from all global operations, including subsidiaries|
+
+### How Are Violations Detected?
+
+Violations can be identified through several channels:
+
+1. **Self-reporting by organisations**  
+    Companies are legally required to report certain types of data breaches to the **Information Commissioner’s Office (ICO)** within **72 hours** of becoming aware of them. This includes breaches that pose a risk to individuals’ rights and freedoms [[1\|1]](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/accountability-and-governance/accountability-framework/breach-response-and-monitoring/).
+    
+2. **Complaints from individuals**  
+    Anyone can file a complaint with the ICO if they believe their personal data has been mishandled. The ICO investigates these complaints and may request evidence from the organisation involved.
+    
+3. **ICO audits and investigations**  
+    The ICO can carry out **proactive audits**, **compliance checks**, or **investigations**—especially in high-risk sectors or following repeated complaints. These may be random or targeted based on risk assessments.
+    
+4. **Whistleblowing or internal reports**  
+    Employees or contractors may report suspected non-compliance internally or directly to the ICO.
+    
+5. **Media reports or public disclosures**  
+    Sometimes, data breaches or unlawful practices are exposed through journalism or public disclosures, prompting the ICO to investigate.
+    
+6. **Monitoring and intelligence gathering**  
+    The ICO uses **performance and compliance data**, **management information**, and **external sources** to monitor organisations and identify patterns of concern [[1\|1]](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/accountability-and-governance/accountability-framework/breach-response-and-monitoring/).
+    
+### Who Needs to Find Out for Fines to Be Issued?
+
+The **Information Commissioner’s Office (ICO)** is the **independent authority** responsible for enforcing data protection laws in the UK. It is the ICO that:
+
+- **Assesses whether a breach has occurred**
+- **Determines the severity of the violation**
+- **Decides whether enforcement action is needed**
+- **Issues fines or other corrective measures**
+
+## Regarding Audits:
+A **data protection audit** is a formal review carried out by the **Information Commissioner’s Office (ICO)** to check whether an organisation is following data protection laws. It looks at how personal data is collected, stored, used, and protected.
+
+The ICO may conduct audits voluntarily (with consent) or, in some cases, make them mandatory. During the audit, they assess areas like data security, staff training, privacy policies, and how the organisation handles people’s data rights.
+
+After the audit, the ICO provides a report with findings and recommendations. If serious issues are found, the ICO may take enforcement action, including fines or orders to change practices.

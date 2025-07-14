@@ -302,7 +302,7 @@ If the representative believes the provider is not following the AI Act, they mu
 
 ##### **Article 23 – Obligations of Importers**
 
-**1. Importers must check compliance before placing AI systems on the market**  
+**Importers must check compliance before placing AI systems on the market**  
 Before selling a high-risk AI system in the EU, importers must make sure it meets all legal requirements. This includes checking that:
 
 - The provider has completed the required conformity assessment (Article 43),
@@ -310,27 +310,27 @@ Before selling a high-risk AI system in the EU, importers must make sure it meet
 - The system has a CE marking, an EU declaration of conformity (Article 47), and instructions for use,
 - The provider has appointed an authorised representative in the EU (Article 22).
 
-**2. Action required if the system is non-compliant or falsified**  
+**Action required if the system is non-compliant or falsified**  
 If the importer suspects that the system doesn’t comply with the law, is fake, or has fake documentation, they must not place it on the market until the issue is resolved. If the system poses a risk (as defined in Article 79(1)), the importer must inform the provider, the authorised representative, and the relevant market surveillance authorities.
 
-**3. Importer identification must be clear**  
+**Importer identification must be clear**  
 Importers must include their name, registered trade name or trademark, and contact address on the system, its packaging, or its documentation.
 
-**4. Safe storage and transport**  
+**Safe storage and transport**  
 While the system is under the importer’s responsibility, they must ensure that storage and transport conditions do not compromise its compliance with the AI Act.
 
-**5. Documentation must be kept for 10 years**  
+**Documentation must be kept for 10 years**  
 Importers must keep a copy of the notified body’s certificate (if applicable), the instructions for use, and the EU declaration of conformity for 10 years after the system is placed on the market or put into service.
 
-**6. Cooperation with authorities**  
+**Cooperation with authorities**  
 Importers must provide authorities with all necessary information and documentation to show the system complies with the law. This must be in a language the authority can understand. They must also ensure that the technical documentation can be made available.
 
-**7. Support risk mitigation efforts**  
+**Support risk mitigation efforts**  
 Importers must cooperate with authorities in any actions taken to reduce or manage risks related to the AI system they placed on the market.
 
 ##### **Article 24 – Obligations of Distributors**
 
-**1. Distributors must check compliance before selling**  
+**Distributors must check compliance before selling**  
 Before making a high-risk AI system available on the market, distributors must check that:
 
 - The system has the CE marking,
@@ -338,50 +338,267 @@ Before making a high-risk AI system available on the market, distributors must c
 - It includes instructions for use,
 - The provider and importer have met their obligations under Articles 16(b) and (c), and 23(3).
 
-**2. Distributors must not sell non-compliant or risky systems**  
+**Distributors must not sell non-compliant or risky systems**  
 If a distributor believes, based on the information they have, that the system doesn’t meet the legal requirements or poses a risk (as defined in Article 79(1)), they must not sell it until the issue is resolved. If the system is risky, they must inform the provider or importer.
 
-**3. Safe handling is required**  
+**Safe handling is required**  
 Distributors must ensure that storage and transport conditions do not compromise the system’s compliance with the AI Act while it is under their responsibility.
 
-**4. Corrective action if problems are found**  
+**Corrective action if problems are found**  
 If a distributor finds out that a system they’ve already sold is non-compliant, they must take corrective action. This could mean fixing the issue, withdrawing the product, or recalling it. If the system poses a risk, they must also inform the provider or importer and notify the relevant authorities, explaining the issue and what actions were taken.
 
-**5. Provide information to authorities when asked**  
+**Provide information to authorities when asked**  
 If requested by a competent authority, distributors must provide all relevant information and documentation about their actions to show that the system complies with the law.
 
-**6. Cooperate with authorities**  
+**Cooperate with authorities**  
 Distributors must work with authorities on any actions taken to reduce or manage risks related to the AI systems they’ve placed on the market.
 
 ##### **Article 25 – Responsibilities Along the AI Value Chain**
 
-**1. When others become providers**  
+**When others become providers**  
 Distributors, importers, deployers, or any third party will be treated as the provider of a high-risk AI system, and must follow all provider obligations under Article 16, if they:
 
 - Put their own name or brand on a high-risk AI system already on the market,
 - Make a substantial modification to a high-risk AI system that keeps it classified as high-risk,
 - Change the intended purpose of an AI system (including general-purpose AI) so that it becomes high-risk under Article 6.
 
-**2. Original providers are no longer responsible in these cases**  
+**Original providers are no longer responsible in these cases**  
 If one of the above changes happens, the original provider is no longer considered responsible for that specific system. However, they must still cooperate with the new provider by sharing necessary information, technical access, and support, unless they had clearly stated that their system must not be modified into a high-risk AI system.
 
-**3. Product manufacturers as providers**  
+**Product manufacturers as providers**  
 If a high-risk AI system is a safety component of a product covered by EU product safety laws (listed in Annex I), the product manufacturer becomes the provider if:
 
 - The AI system is sold with the product under the manufacturer’s name or brand,
 - The AI system is activated under the manufacturer’s name after the product is sold.
 
-**4. Agreements between providers and third-party suppliers**  
+**Agreements between providers and third-party suppliers**  
 Providers and third parties who supply tools, services, components, or processes for high-risk AI systems must sign a written agreement. This agreement must clearly define what information, access, and support the third party must provide to help the provider meet their legal obligations. This rule does **not** apply to open-source tools or components (except general-purpose AI models).
 
-**5. Voluntary contract templates**  
+**Voluntary contract templates**  
 The AI Office may create and publish **voluntary model contract terms** to help providers and third-party suppliers agree on responsibilities. These templates will be free to use and available in a user-friendly digital format. They will also consider sector-specific needs.
 
-**6. Protection of confidential information**  
+**Protection of confidential information**  
 All cooperation and information sharing must respect intellectual property rights, business confidentiality, and trade secrets, in line with EU and national laws.
 
+##### **Article 26 – Obligations of Deployers of High-Risk AI Systems**
+
+**Use in Line with Instructions**  
+Deployers must use high-risk AI systems strictly according to the provider’s instructions. They must assign human oversight to individuals with the necessary competence, training, and authority. These obligations do not interfere with the deployer’s freedom to organise internal resources.  
+
+**Data Control and Monitoring**  
+If deployers control the input data, they must ensure it is relevant and representative for the system’s intended purpose. They must monitor the system’s operation and, if risks or serious incidents arise, inform the provider, distributor, and relevant authorities without delay. Use must be suspended if the system presents a risk under Article 79(1).  
+
+**Logging Requirements**  
+Deployers must retain logs automatically generated by the high-risk AI system for at least six months, unless otherwise required by law. Financial institutions may fulfil this obligation through existing governance documentation under EU financial services law.  
+
+**Worker Notification**  
+Before deploying a high-risk AI system in the workplace, employers must inform affected workers and their representatives. This must be done in accordance with applicable Union and national laws and practices.  
+
+**Public Sector Registration**  
+Public authorities and EU institutions must ensure the system is registered in the EU database before use. If it is not registered, they must not use it and must inform the provider or distributor.  
+
+**Biometric Identification in Law Enforcement**  
+Deployers using post-remote biometric identification systems must obtain prior authorisation from a judicial or administrative authority, unless used for initial suspect identification based on objective facts. Use must be targeted and proportionate. Untargeted use is prohibited, and no adverse legal decisions may be based solely on system output.  
+
+**Documentation and Reporting**  
+Each use of post-remote biometric identification must be documented in the relevant police file and made available to authorities upon request. Annual reports must be submitted to market surveillance and data protection authorities, excluding sensitive operational data. Member States may adopt stricter national rules.  
+
+**Transparency and Cooperation**  
+Deployers must inform individuals when decisions affecting them are made using high-risk AI systems. They must also cooperate with competent authorities in any actions taken to enforce the AI Act.
+
+##### **Article 27 – Fundamental Rights Impact Assessment for High-Risk AI Systems**
+
+**Who must conduct the assessment**  
+Before deploying a high-risk AI system under Article 6(2) (excluding those used in Annex III, point 2), public sector bodies, private entities providing public services, and deployers using systems under Annex III, points 5(b) and 5(c), must carry out a fundamental rights impact assessment.
+
+**What the assessment must include**  
+The assessment must describe:
+- how the AI system will be used in the deployer’s processes,
+- the timeframe and frequency of its use,
+- the categories of people likely to be affected,
+- the specific risks of harm to those people, based on provider information,
+- the human oversight measures in place,
+- and the actions to be taken if those risks materialise, including governance and complaint mechanisms.
+
+**When and how to update the assessment**  
+The obligation applies to the first use of the system. Deployers may reuse previous assessments or rely on the provider’s assessment in similar cases. If any relevant element changes or becomes outdated, the deployer must update the assessment.
+
+**Notification to authorities**  
+Once completed, the deployer must notify the market surveillance authority by submitting the filled-out assessment template. An exemption applies in cases covered by Article 46(1).
+
+**Relation to data protection assessments**  
+If a data protection impact assessment has already been conducted under GDPR Article 35 or Directive 2016/680 Article 27, the fundamental rights impact assessment must complement it.
+
+**Support from the AI Office**  
+The AI Office will provide a standardised questionnaire template, including an automated tool, to help deployers complete the assessment more easily.
+
+---
+# **Section 4: Notifying authorities and notified bodies**
+
+##### **Article 28 – Notifying Authorities**
+
+**Designation and Cooperation**  
+Each Member State must designate or establish at least one notifying authority responsible for setting up, carrying out, and monitoring the procedures for assessing, designating, and notifying conformity assessment bodies. These procedures must be developed in cooperation with notifying authorities from other Member States.
+
+**Role of National Accreditation Bodies**
+Member States may assign the tasks of assessment and monitoring to a national accreditation body, in line with Regulation (EC) No 765/2008.
+
+**Independence and Impartiality**  
+Notifying authorities must be structured to avoid conflicts of interest with conformity assessment bodies. They must ensure objectivity and impartiality in their operations.
+
+**Separation of Functions**  
+Decisions on the notification of conformity assessment bodies must be made by individuals who were not involved in the assessment of those bodies.
+
+**Prohibition on Commercial Services**
+Notifying authorities must not offer or provide any services that conformity assessment bodies perform, nor any consultancy services on a commercial or competitive basis.
+
+**Confidentiality**  
+All information obtained by notifying authorities must be kept confidential, in accordance with Article 78.
+
+**Competence and Staffing**  
+Notifying authorities must have a sufficient number of competent personnel with expertise relevant to their tasks, including in information technology, AI, law, and fundamental rights supervision.
+
+##### **Article 29 – Application of a Conformity Assessment Body for Notification**
+
+**Submission of Application**  
+Conformity assessment bodies must apply for notification to the notifying authority in the Member State where they are established.
+
+**Required Documentation**  
+The application must include:
+- a description of the conformity assessment activities,
+- the modules and types of AI systems the body is competent to assess,
+- and an accreditation certificate (if available) issued by a national accreditation body confirming compliance with Article 31.
+
+**Supporting Documents from Other Designations**  
+Any valid documents related to existing designations under other Union harmonisation legislation must be included in the application.
+
+**Alternative to Accreditation Certificate**  
+If no accreditation certificate is available, the body must provide all necessary documentation to allow the notifying authority to verify, recognise, and monitor compliance with Article 31.
+
+**Use of Existing Designation Documents**  
+Documents and certificates from other Union designations may support the application under this Regulation. The notified body must update its documentation whenever relevant changes occur to ensure ongoing compliance with Article 31.
+
+##### **Article 30 – Notification Procedure**
+
+**Eligibility for Notification**  
+Only conformity assessment bodies that meet the requirements of Article 31 may be notified by notifying authorities.
+
+**Notification Process**  
+Notifying authorities must notify the European Commission and other Member States using the Commission’s electronic notification tool.
+
+**Notification Content**  
+The notification must include full details of the conformity assessment activities, the modules involved, the types of AI systems covered, and proof of competence. If no accreditation certificate is provided (as per Article 29(2)), the notifying authority must submit documentary evidence of the body’s competence and monitoring arrangements.
+
+**Objection Periods**  
+The conformity assessment body may begin operating as a notified body if no objections are raised:
+- within two weeks if the notification includes an accreditation certificate,
+- or within two months if it includes only documentary evidence.
+
+**Handling Objections**  
+If objections are raised, the Commission must consult with the relevant Member States and the conformity assessment body. It will then decide whether the notification is justified and communicate its decision to the Member State and the body concerned.
+
+##### **Article 31 – Requirements Relating to Notified Bodies**
+
+**Legal Status**  
+A notified body must be legally established in an EU Member State and have its own legal identity.
+
+**Organisational and Technical Standards**  
+It must meet strict standards for organisation, quality management, resources, and cybersecurity to carry out its tasks properly.
+
+**Structure and Trust**  
+Its internal structure and operations must inspire trust in its assessments and results.
+
+**Independence**  
+The body must be independent from the AI provider it assesses, from any business with a financial interest in the system, and from competitors. However, it may use AI systems it has assessed if needed for its own operations or personal use.
+
+**No Conflicts of Interest**  
+Staff and management must not be involved in designing, developing, marketing, or using high-risk AI systems. They must avoid any activity that could compromise their impartiality, especially consultancy services.
+
+**Impartiality**  
+The body must have clear procedures and a structure that ensures impartiality in all its work and promotes this principle throughout the organisation.
+
+**Confidentiality**  
+It must keep all information obtained during assessments confidential, unless disclosure is legally required. Staff are bound by professional secrecy, except when reporting to the national notifying authority.
+
+**Proportional Approach**  
+Its procedures must consider the size, sector, and complexity of the provider and the AI system being assessed.
+
+**Liability Insurance**  
+It must have suitable liability insurance unless the Member State takes on this responsibility directly.
+
+**Competence and Integrity**  
+The body must be capable of performing all its tasks with high professional standards and expertise, whether done internally or by others under its responsibility.
+
+**Internal Expertise**  
+It must have enough qualified staff in areas like AI, data, law, and computing to evaluate both its own work and that of any external partners.
+
+**Participation in Standards and Coordination**  
+It must take part in EU coordination activities and stay up to date with relevant standards, either directly or through representation.
+
+##### **Article 32 – Presumption of Conformity with Requirements Relating to Notified Bodies**
+
+**1. Use of Harmonised Standards**  
+If a conformity assessment body complies with relevant harmonised standards published in the Official Journal of the European Union, it is presumed to meet the requirements set out in Article 31—provided those standards cover the applicable requirements.
+
+##### **Article 33 – Subsidiaries of Notified Bodies and Subcontracting**
+
+**Compliance of Subcontractors and Subsidiaries**  
+If a notified body subcontracts tasks or uses a subsidiary for conformity assessments, it must ensure they meet the same requirements as set out in Article 31 and must inform the notifying authority.
+
+**Full Responsibility**  
+The notified body remains fully responsible for all tasks carried out by its subcontractors or subsidiaries.
+
+**Provider Agreement and Transparency**  
+Subcontracting or delegation to a subsidiary is only allowed with the provider’s agreement. Notified bodies must publish a list of their subsidiaries.
+
+**Record-Keeping**  
+Documents related to the qualifications of subcontractors or subsidiaries and the work they perform must be kept available for the notifying authority for five years after the subcontracting ends.
+
+##### **Article 34 – Operational Obligations of Notified Bodies**
+
+**Conformity Assessments**  
+Notified bodies must verify that high-risk AI systems comply with the requirements of the AI Act using the conformity assessment procedures outlined in Article 43.
+
+**Minimising Burden on Providers**  
+When carrying out their tasks, notified bodies must avoid placing unnecessary burdens on providers. They must consider the provider’s size, sector, structure, and the complexity of the AI system—especially to reduce administrative and compliance costs for micro and small enterprises. However, they must still apply the necessary level of scrutiny to ensure full compliance with the Regulation.
+
+**Documentation and Cooperation**  
+Notified bodies must make all relevant documentation, including that provided by the AI system provider, available to the notifying authority upon request. This is to support the authority’s assessment, designation, notification, and monitoring responsibilities.
+
+##### **Article 35 – Identification Numbers and Lists of Notified Bodies**
+
+**Unique Identification Numbers**  
+The European Commission assigns a single identification number to each notified body, even if that body is notified under multiple EU laws.
+
+**Public List of Notified Bodies**  
+The Commission publishes a list of all notified bodies under this Regulation, including their identification numbers and the specific activities they are authorised to perform. This list is kept up to date to ensure transparency and accuracy.
+
+##### **Article 36 – Changes to Notifications**
+
+**Notification of Changes**  
+Any changes to a notified body’s status must be communicated by the notifying authority to the Commission and other Member States using the electronic tool mentioned in Article 30(2). Extensions of scope follow the same procedures as in Articles 29 and 30.
+
+**Other Changes**  
+For changes other than scope extensions, specific procedures apply. If a notified body plans to stop its activities, it must inform the notifying authority and affected providers as early as possible, at least one year in advance if planned. Certificates may remain valid for up to nine months if another notified body agrees in writing to take over responsibility and completes a full assessment within that time.
+
+**Loss of Compliance**  
+If a notifying authority suspects that a notified body no longer meets the requirements of Article 31 or is failing its duties, it must investigate immediately. The body must be informed of the concerns and given a chance to respond. If non-compliance is confirmed, the authority must restrict, suspend, or withdraw the designation and inform the Commission and Member States.
+
+**Provider Notification and File Handling**  
+If a designation is restricted, suspended, or withdrawn, the notified body must inform affected providers within 10 days. The notifying authority must ensure that the body’s files are preserved and made available to other authorities upon request.
+
+**Impact on Certificates**  
+The notifying authority must assess how the change affects issued certificates, report its findings to the Commission and Member States within three months, and require the withdrawal of any improperly issued certificates. It must also inform relevant national authorities and ensure appropriate action is taken to protect health, safety, or fundamental rights.
+
+**Validity of Certificates During Suspension or Restriction**  
+Certificates remain valid if the notifying authority confirms there is no risk and outlines a plan to resolve the issue, or if no new certificates will be issued and the body can still monitor existing ones. If not, the provider must confirm within three months that another notified body will temporarily take over monitoring responsibilities.
+
+**Validity of Certificates After Withdrawal**  
+If a designation is withdrawn, certificates may remain valid for nine months if the national authority confirms no risk and another notified body agrees to take over and completes its assessment within 12 months. The national authority may extend certificate validity in three-month increments, up to a total of 12 months.
+
+**Communication of Changes**  
+Any authority or notified body taking over responsibilities must immediately inform the Commission, other Member States, and other notified bodies.
 
 
-Section 4: Notifying authorities and notified bodies
 
 Section 5: Standards, conformity assessment, certificates, registration
