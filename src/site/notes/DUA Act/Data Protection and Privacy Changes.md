@@ -410,6 +410,5 @@ Links and references:
 2. [Data (Use and Access) Act 2025](https://www.legislation.gov.uk/ukpga/2025/18/enacted)
 
 
-PDF version of the notes on DUAA from the above:
+Download DUAA Notes in PDF format by clicking on this link: <a href="Formatted_DUAA_Notes.pdf" target="_blank">DUAA_Data_Protection_&_Privacy Changes</a>
 
-![[DUAA_Data_Protection_&_Privacy Changes.pdf]]
