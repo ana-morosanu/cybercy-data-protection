@@ -3,10 +3,6 @@
 ---
 
 
-[Information Commissioner’s updated response to the Data (Use and Access) (DUA) Bill – House of Commons | ICO](https://ico.org.uk/about-the-ico/the-data-use-and-access-dua-bill/information-commissioner-s-updated-response-to-the-data-use-and-access-dua-bill-house-of-commons/)
-
-[Data (Use and Access) Act 2025](https://www.legislation.gov.uk/ukpga/2025/18/enacted)
-
 DUAA received Royal Assent on 19 June 2025 and it includes:
 
 - provisions to enable growth of digital verification services
@@ -155,7 +151,7 @@ What this means for Cybercy:
 - Make sure systems are auditable, explainable and challengeable by users.
 - Also make sure clients understand that explicit consent is still required for automated decisions involving sensitive data.
 
-#### 7. recognised legitimate interests
+#### 7. Recognised legitimate interests
 
 This change affects how organisations can rely on the legitimate interests lawful basis under Article 6(1)(f) of the UK GDPR.
 
@@ -187,7 +183,7 @@ What this means for Cybercy:
 - Educate stuff on the difference between recognised and general legitimate interests. Provide examples and decision-making tools.
 - Monitor for updates regarding the list of recognised legitimate interests.
 
-#### 8. international data transfers
+#### 8. International data transfers
 
 The DUAA 2025 introduces clarifications and streamlining to the rules governing international transfers of personal data from the UK to other countries. These changes aim to simplify compliance for organisations as well as support international trade and innovation and maintain strong protections for individuals’ data when it leaves the UK.
 
@@ -232,7 +228,7 @@ What this means for Cybercy:
 - Help clients understand when the ICO is likely to decline or accept a complaint. Support them in preparing evidence of internal resolution efforts.
 - The ICO is reviewing its complaint handling guidance to reflect DUAA changes.
 
-#### 10. storage and access technologies such as cookies
+#### 10. Storage and access technologies such as cookies
 
 The DUAA updates the rules around the use of cookies and similar technologies (e.g. local storage, tracking pixels) under the Privacy and Electronic Communications Regulations (PECR). These changes aim to reduce friction for low-risk uses of cookies, clarify consent requirements and support user experience and innovation while maintaining privacy protections.
 
@@ -253,7 +249,7 @@ What this means for Cybercy:
 - Stay informed about new classifications of cookies and technologies. Track developments in browser-based consent tools.
 - Clarify that low-risk analytics may not require consent, but profiling and advertising still do.
 
-#### 11. changes to Parts 3 and 4 of the DPA Act 2018
+#### 11. Changes to Parts 3 and 4 of the DPA Act 2018
 
 The DUAA introduces target updates to Part 3 of the DPA 2018: Governs the processing of personal data by competent authorities for law enforcement purposes. And updates for Part 4 of the DPA 2018: Governs the processing of personal data by intelligence services. These changes are not broad in scope, but they are significant for the sectors they affect.
 
@@ -407,3 +403,11 @@ Why this matters for Cybercy:
     - Help clients implement the necessary technical and organisational measures to qualify for certification.
     - Ensure clients understand the conditions for displaying the Trust Mark and the implications of non-compliance.
     - Stay informed about changes to the framework, supplementary codes, and the certification process.
+
+
+Links and references:
+1. [Information Commissioner’s updated response to the Data (Use and Access) (DUA) Bill – House of Commons | ICO](https://ico.org.uk/about-the-ico/the-data-use-and-access-dua-bill/information-commissioner-s-updated-response-to-the-data-use-and-access-dua-bill-house-of-commons/)
+2. [Data (Use and Access) Act 2025](https://www.legislation.gov.uk/ukpga/2025/18/enacted)
+
+
+PDF version of the notes on DUAA from the above:![[DUAA_Data_Protection_&_Privacy Changes.pdf]]
