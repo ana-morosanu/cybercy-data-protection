@@ -3,7 +3,7 @@
 ---
 
   
- ![generated_image (4).png|60](/img/user/generated_image%20(4).png)
+ ![implement_ai.png|60](/img/user/implement_ai.png)
 ## Welcome to Cybercy's Knowledge Base!!
  
  The Knowledge Base is still in progress. Keep in touch for future updates!

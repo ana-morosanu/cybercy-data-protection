@@ -601,4 +601,7 @@ Any authority or notified body taking over responsibilities must immediately inf
 
 
 
+
+
+
 Section 5: Standards, conformity assessment, certificates, registration
