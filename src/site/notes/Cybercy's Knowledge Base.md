@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cybercy-s-knowledge-base/","tags":["gardenEntry"]}
 ---
 
-  
+  <br><br>
  ![implement_ai.png|60](/img/user/implement_ai.png)
 ## Welcome to Cybercy's Knowledge Base!!
  
